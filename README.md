@@ -1,21 +1,34 @@
-# Food & Beverage Industry Insights.
+🥤 Food & Beverage Industry Insights
+📌 Situation
 
-Situation:
-CodeX, a German beverage company, recently launched its energy drink in India. The marketing team aims to increase brand awareness, market share, and product development. To gather insights, a survey was conducted in 10 cities, generating responses from 10,000 respondents. 
+CodeX, a German beverage company, launched its energy drink in India with the goal of boosting brand awareness, market share, and product development. To support this, a survey of 10,000 respondents across 10 cities was conducted.
 
-Task:
-To extracted key insights from survey result to drive marketing strategies.
+🎯 Task
 
-Action:
-Created a report presenting my analysis from market survey results.
-Tools and Techniques used-
-MySQL
-Microsoft Power BI
+Extract meaningful insights from the survey results to guide marketing and growth strategies.
 
+⚡ Action
 
+Analyzed survey responses using MySQL for data extraction and cleaning
 
+Built Power BI dashboards to visualize consumer preferences, brand awareness, and purchase behavior
 
+Compiled findings into a structured report highlighting key opportunities and challenges
 
-<img width="595" alt="image" src="https://github.com/Sweta-Sah/Food-Beverage-Industry-Insights./assets/132820867/cd4ddca3-52d8-47d8-b426-af99513cb759">
+🛠 Tools & Techniques
 
+SQL (MySQL) → Data extraction, transformation & querying
 
+Microsoft Power BI → Interactive dashboards & visual storytelling
+
+📊 Outcome
+
+The analysis provided actionable insights to:
+
+Identify target consumer segments
+
+Evaluate pricing and distribution strategies
+
+Support product positioning in a competitive market
+
+<img width="595" alt="Food & Beverage Dashboard" src="https://github.com/Sweta-Sah/Food-Beverage-Industry-Insights./assets/132820867/cd4ddca3-52d8-47d8-b426-af99513cb759">
